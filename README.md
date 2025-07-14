@@ -1,6 +1,19 @@
-# Exploratory Data Analysis with Pandas and Matplotlib
+# 📊 Exploratory Data Analysis using Python
 
-This Readme file will provide a comprehensive guide for performing exploratory data analysis on three different datasets `ufo`, `u.user`, and `movies` using the Pandas library and data visualization using Matplotlib.
+This project performs exploratory data analysis (EDA) on real-world datasets using Python libraries like pandas and matplotlib.
+
+
+##  Features
+- Data cleaning and preprocessing
+- Descriptive statistics and summary
+- Visualizations: histograms, boxplots, scatter plots
+- Correlation analysis
+
+##  Tech Stack
+- Python 3
+- pandas
+- matplotlib
+- seaborn
 
 ## Data Loading
 The first step of the data analysis process involves loading the data into a Pandas DataFrame. The datasets `ufo`, `u.user`, and `movies` will be loaded into their respective DataFrames named `ufo`, `user`, and `movie`.
